@@ -2,6 +2,8 @@
 
 Animation for converting sensitive documents to encrypted format.
 
+https://github.com/sbis04/file_encryption_animation/assets/43280874/8e87a48c-d2f8-4b82-8bda-2827202f40d4
+
 ## License
 
 Copyright (c) 2023 Souvik Biswas
